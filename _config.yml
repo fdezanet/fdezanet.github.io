@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Fabrice De Zanet"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Data Science Portfolio"
+name                     : "Fabrice De Zanet"
+description              : "My Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Fabrice De Zanet"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  location         : "Belgium"
+  email            : fabrice.dezanet@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
